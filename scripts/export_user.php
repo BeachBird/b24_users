@@ -85,5 +85,5 @@
 		exit( );
 	}
 	else {
-		echo "Файл доступен по <a href='/upload/users.csv?v=5'>ссылке</a>";
+		echo "Файл доступен по <a href='/upload/users.csv'>ссылке</a>";
 	}
